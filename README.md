@@ -1,4 +1,4 @@
 # git-curso
-Este es un proyecto de prueba con git.
-Mi primer pryecto de prueba con git.
+Este es un proyecto de prueba con git. 
+Mi primer proyecto de prueba con git.
 
